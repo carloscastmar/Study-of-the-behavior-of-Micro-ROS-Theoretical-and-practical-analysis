@@ -1,2 +1,3 @@
-# TFG
-My bachelor's degree final project about real-time performance in micro-ros
+# Study of the behavior of Micro-ROS
+
+This work studies the behavior of micro-ROS technology. In the first stage, the fundamentals of real-time communications are analyzed, including the constraints and advantages of such systems. Next, a theoretical study of ROS functionality is conducted, covering the programming basis supported by ROS2, the different components of the software architecture, and the tools used to integrate ROS2 functions into microcontrollers. Finally, a series of analyses are proposed to simulate real-life applications, measuring the performance of micro-ROS installed on an ESP-32 board.
